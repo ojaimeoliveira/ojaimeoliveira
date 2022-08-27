@@ -15,15 +15,12 @@
 
 - 📫 How to reach me **hello@jaimeoliveira.me**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ojaimeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ojaimeoliveira" height="30" width="40" /></a>
 <a href="https://twitter.com/ojaimeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ojaimeoliveira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ojaimeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojaimeoliveira" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/296118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="296118" height="30" width="40" /></a>
 <a href="https://kaggle.com/ojaimeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ojaimeoliveira" height="30" width="40" /></a>
 <a href="https://medium.com/@ojaimeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ojaimeoliveira" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ojaimeoliveria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojaimeoliveria" height="30" width="40" /></a>
@@ -38,7 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojaimeoliveira&" alt="ojaimeoliveira" /></p>
 
-# ojaimeoliveira
-# ojaimeoliveira
-# ojaimeoliveira
-# ojaimeoliveira
